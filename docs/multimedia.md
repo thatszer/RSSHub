@@ -719,6 +719,14 @@ Tiny Tiny RSS 会给所有 iframe 元素添加 `sandbox="allow-scripts"` 属性�
 
 <Route author="FlashWingShadow" example="/ixigua/user/video/4234740937" path="/ixigua/user/video/:uid/:disableEmbed?" :paramsDesc="['用户 id, 可在用户主页中找到', '默认为开启内嵌视频, 任意值为关闭']"/>
 
+
+## zer
+
+### 阳光电影 最新发布
+
+<Route author="imgss" example="/zer/ygdy-latest" path="/zer/ygdy-latest" supportBT="1"/>
+
+
 ## 喜马拉雅
 
 ### 专辑
